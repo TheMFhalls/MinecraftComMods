@@ -1490,3 +1490,253 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [17:55:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
 [17:55:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
 [17:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[17:55:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[17:55:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[17:55:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[17:55:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[17:55:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
+[17:55:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 96%
+[17:55:35] [Server thread/INFO] [Mekanism]: VoiceServer: Starting up server...
+[17:55:35] [Forestry Greenhouse/INFO] [forestry]: Starting greenhouse thread
+[17:55:36] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:55:36] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[17:55:36] [Server thread/INFO] [FML]: Unloading dimension 7
+[17:55:36] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[17:55:36] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:55:36] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[17:55:36] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:55:36] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[17:55:36] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:55:36] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[17:55:36] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:55:38] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[17:55:38] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[17:55:38] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,buildcraftlib@7.99.17,portalgun@7.0.0,biomesoplenty@7.0.1.2297,redstoneflux@2.0.1,zawa@1.12.1-1.1.0,buildcraftsilicon@7.99.17,buildcraftenergy@7.99.17,minions@2.0.2,jei@4.9.1.168,buildcrafttransport@7.99.17,chickenchunks@2.4.1.71,cofhcore@4.4.1,mekanism@1.12.2-9.4.10.345,thermalfoundation@2.4.1,buildcraftbuilders@7.99.17,mcp@9.42,moon-core@7.0,buildcraftfactory@7.99.17,journeymap@1.12.2-5.5.2,appliedenergistics2@rv5-stable-11,FML@8.0.99.99,thermalexpansion@5.4.2,inventorytweaks@1.63+release.109.220f184,bigreactors@1.12.2-0.4.5.48,waila@1.8.20,ichunutil@7.1.4,forge@14.23.4.2703,codechickenlib@3.1.8.341,twilightforest@3.7.424,buildcraftcore@7.99.17,buildcraftrobotics@7.99.17,forestry@5.8.0.280,ironchest@1.12-7.0.31.818,zerocore@1.12-0.1.2.1
+[17:55:38] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[17:55:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:55:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TheMFhalls[local:E:09cc65b7] logged in with entity id 628 at (-93.5, 64.0, 195.5)
+[17:55:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheMFhalls joined the game
+[17:55:39] [main/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[17:55:39] [main/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[17:55:42] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[17:55:42] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user TheMFhalls
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] WARNING: BuildCraft 7.99.17 is in ALPHA!
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]   Report BuildCraft bugs you find here
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]   and include the BuildCraft version 7.99.17 in the description
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]   If you have performance problems then try disabling
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] everything in the BuildCraft perfomance config section.
+[17:55:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §1[Mekanism] §7Using developer build §89.4.10
+[17:55:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['TheMFhalls'/628, l='Teste', x=-93.50, y=64.00, z=195.50] connected. Sending ping
+[17:55:42] [Netty Local Client IO #0/INFO] [Waila]: Received server authentication msg. Remote sync will be activated
+[17:55:42] [Netty Local Client IO #0/INFO] [Mekanism]: Received config from server.
+[17:55:42] [Netty Local Client IO #0/INFO] [Mekanism]: Received Cardboard Box blacklist entries from server (19 total)
+[17:55:42] [Thread-20/INFO] [Mekanism]: VoiceServer: Starting client connection...
+[17:55:42] [Server thread/INFO] [Mekanism]: Sent config to 'TheMFhalls.'
+[17:55:42] [VoiceServer Listen Thread/INFO] [Mekanism]: VoiceServer: Accepted new connection.
+[17:55:42] [Thread-20/INFO] [Mekanism]: VoiceServer: Successfully connected to server.
+[17:55:43] [Thread-23/INFO] [Mekanism]: VoiceServer: Traced IP in 1 attempts.
+[17:55:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:55:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:55:43] [main/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:55:43] [main/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:55:43] [main/INFO] [journeymap]: Loading journeymap.topo.config
+[17:55:43] [main/INFO] [journeymap]: Loaded 2 waypoints from C:\Users\maico\AppData\Roaming\.minecraft\journeymap\data\sp\Teste\waypoints
+[17:55:43] [main/INFO] [journeymap]: Mapping started in C:\Users\maico\AppData\Roaming\.minecraft\journeymap\data\sp\Teste\DIM0. Memory: 2480MB total, 1264MB free 
+[17:55:43] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[17:55:43] [main/INFO] [journeymap]: JourneyMap: Press [J]
+[17:55:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:55:46] [JM-task-4/INFO] [journeymap]: Custom modded block handling enabled for biomesoplenty
+[17:55:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11544ms behind, skipping 230 tick(s)
+[17:56:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:56:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:56:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:56:42] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:56:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:56:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:56:47] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 7 advancements
+[17:56:53] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:56:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:56:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:56:53] [JM-texture-3/WARN] [journeymap]: Couldn't get a skin at all for techbrew
+[17:56:53] [JM-texture-6/WARN] [journeymap]: Couldn't get a skin at all for mysticdrew
+[17:56:54] [JM-texture-2/WARN] [journeymap]: Couldn't get a skin at all for Davkas
+[17:56:54] [JM-texture-5/WARN] [journeymap]: Couldn't get a skin at all for AlexDurrani
+[17:56:54] [JM-texture-3/WARN] [journeymap]: Couldn't get a skin at all for TECH_GEEK10
+[17:56:54] [JM-texture-6/WARN] [journeymap]: Couldn't get a skin at all for _TheEndless_
+[17:56:55] [JM-texture-2/WARN] [journeymap]: Couldn't get a skin at all for eladjenkins
+[17:57:00] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:57:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:57:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:57:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:57:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:57:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:57:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheMFhalls was slain by Gaur
+[17:57:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] TheMFhalls was slain by Gaur
+[17:57:54] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancements
+[17:57:55] [main/INFO] [journeymap]: TheMFhalls died at BlockPos{x=-152, y=64, z=322}. Deathpoints enabled: true. Deathpoint created: true
+[17:58:02] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 45 advancements
+[17:58:15] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[17:58:15] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 66 advancements
+[17:58:27] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 69 advancements
+[17:58:33] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 71 advancements
+[17:58:34] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 74 advancements
+[17:58:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:58:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:58:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:59:28] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:59:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:59:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:59:36] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Locking difficulty to NORMAL
+[18:00:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheMFhalls was slain by Gaur
+[18:00:15] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] TheMFhalls was slain by Gaur
+[18:00:16] [main/INFO] [journeymap]: TheMFhalls died at BlockPos{x=-133, y=64, z=154}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:00:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[18:00:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[18:00:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:00:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[18:00:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[18:03:25] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[18:03:25] [main/INFO] [journeymap]: Mapping halted in C:\Users\maico\AppData\Roaming\.minecraft\journeymap\data\sp\Teste\DIM0
+[18:03:25] [main/WARN] [journeymap]: Existing color palette's resource packs no longer match current loadout.
+[18:03:25] [main/INFO] [journeymap]: WAS: Faithful 64x64 1.12-1.9.4.zip:zip
+NOW: Default
+[18:03:25] [Server thread/INFO] [Mekanism]: VoiceServer: Shutting down server...
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[18:03:26] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[18:03:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:03:26] [Server thread/INFO] [FML]: Unloading dimension 2
+[18:03:27] [Server thread/INFO] [FML]: Applying holder lookups
+[18:03:27] [Server thread/INFO] [FML]: Holder lookups applied
+[18:03:27] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:03:28] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

@@ -23497,3 +23497,930 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [17:55:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
 [17:55:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
 [17:55:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
+[17:55:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[17:55:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 77%
+[17:55:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 82%
+[17:55:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[17:55:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 91%
+[17:55:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 96%
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod minecraft
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod minecraft
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod mcp
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod mcp
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Coder Pack took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod FML
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod FML
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Forge Mod Loader took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod forge
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod forge
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minecraft Forge took 0.047s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod appliedenergistics2
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod appliedenergistics2
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Applied Energistics 2 took 0.002s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod biomesoplenty
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod biomesoplenty
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Biomes O' Plenty took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftlib
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftlib
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BuildCraft Lib took 0.004s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftcore
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftcore
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BuildCraft took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftbuilders
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftbuilders
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BC Builders took 0.011s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftenergy
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftenergy
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BC Energy took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftfactory
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftfactory
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BC Factory took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftrobotics
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftrobotics
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BC Robotics took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcrafttransport
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcrafttransport
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BC Transport took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod buildcraftsilicon
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod buildcraftsilicon
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - BC Silicon took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod codechickenlib
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod codechickenlib
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - CodeChicken Lib took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod chickenchunks
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod chickenchunks
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - ChickenChunks took 0.005s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod redstoneflux
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod redstoneflux
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Redstone Flux took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod cofhcore
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod cofhcore
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - CoFH Core took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod zerocore
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod zerocore
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Zero CORE took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod bigreactors
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod bigreactors
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Extreme Reactors took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod jei
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod jei
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Just Enough Items took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod forestry
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod forestry
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Forestry took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod waila
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod waila
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Waila took 0.004s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod ichunutil
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod ichunutil
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - iChunUtil took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod inventorytweaks
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod inventorytweaks
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Inventory Tweaks took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod ironchest
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod ironchest
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Iron Chest took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod journeymap
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod journeymap
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - JourneyMap took 0.028s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod mekanism
+[17:55:35] [Server thread/INFO] [Mekanism]: VoiceServer: Starting up server...
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod mekanism
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Mekanism took 0.007s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod minions
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod minions
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Minions took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod zawa
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod zawa
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod moon-core
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod moon-core
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Moon's Core took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod portalgun
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod portalgun
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - PortalGun took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod thermalfoundation
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod thermalfoundation
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Thermal Foundation took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod thermalexpansion
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod thermalexpansion
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - Thermal Expansion took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartingEvent to mod twilightforest
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartingEvent to mod twilightforest
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarting - The Twilight Forest took 0.003s
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarting took 0.115s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod minecraft
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod minecraft
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod mcp
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod mcp
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Coder Pack took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod FML
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod FML
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Forge Mod Loader took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod forge
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod forge
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minecraft Forge took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod appliedenergistics2
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod appliedenergistics2
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Applied Energistics 2 took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod biomesoplenty
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod biomesoplenty
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Biomes O' Plenty took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftlib
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftlib
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BuildCraft Lib took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftcore
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftcore
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BuildCraft took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftbuilders
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftbuilders
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BC Builders took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftenergy
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftenergy
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BC Energy took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftfactory
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftfactory
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BC Factory took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftrobotics
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftrobotics
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BC Robotics took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcrafttransport
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcrafttransport
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BC Transport took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod buildcraftsilicon
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod buildcraftsilicon
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - BC Silicon took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod codechickenlib
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod codechickenlib
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - CodeChicken Lib took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod chickenchunks
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod chickenchunks
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - ChickenChunks took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod redstoneflux
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod redstoneflux
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Redstone Flux took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod cofhcore
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod cofhcore
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - CoFH Core took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod zerocore
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod zerocore
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Zero CORE took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod bigreactors
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod bigreactors
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Extreme Reactors took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod jei
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod jei
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Just Enough Items took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod forestry
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod forestry
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Forestry took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod waila
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod waila
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Waila took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod ichunutil
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod ichunutil
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - iChunUtil took 0.002s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod inventorytweaks
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod inventorytweaks
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Inventory Tweaks took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod ironchest
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod ironchest
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Iron Chest took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod journeymap
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod journeymap
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - JourneyMap took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod mekanism
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod mekanism
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Mekanism took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod minions
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod minions
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Minions took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod zawa
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod zawa
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod moon-core
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod moon-core
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Moon's Core took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod portalgun
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod portalgun
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - PortalGun took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod thermalfoundation
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod thermalfoundation
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Thermal Foundation took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod thermalexpansion
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod thermalexpansion
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - Thermal Expansion took 0.000s
+[17:55:35] [Server thread/TRACE] [FML]: Sending event FMLServerStartedEvent to mod twilightforest
+[17:55:35] [Server thread/TRACE] [FML]: Sent event FMLServerStartedEvent to mod twilightforest
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Step: ServerStarted - The Twilight Forest took 0.000s
+[17:55:35] [Server thread/DEBUG] [FML]: Bar Finished: ServerStarted took 0.006s
+[17:55:35] [Server thread/DEBUG] [FML]: Queueing dimension 7 to unload
+[17:55:35] [Forestry Greenhouse/INFO] [forestry]: Starting greenhouse thread
+[17:55:35] [Server thread/DEBUG] [FML]: Queueing dimension 1 to unload
+[17:55:35] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[17:55:36] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:55:36] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[17:55:36] [Server thread/INFO] [FML]: Unloading dimension 7
+[17:55:36] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[17:55:36] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:55:36] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[17:55:36] [Server thread/INFO] [FML]: Unloading dimension 1
+[17:55:36] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[17:55:36] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:86)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:30)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[17:55:36] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:33) [WorldEventHandler.class:1.12.2-5.5.2]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_406_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:381) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:252) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_25]
+[17:55:36] [Server thread/INFO] [FML]: Unloading dimension -1
+[17:55:38] [Netty Local Client IO #0/TRACE] [FML]: Handshake channel activating
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: FMLHandshakeClientState: null->FMLHandshakeClientState$1:START
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]:   Next: HELLO
+[17:55:38] [Server thread/TRACE] [FML]: Handshake channel activating
+[17:55:38] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[17:55:38] [Server thread/DEBUG] [FML]:   Next: HELLO
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: Server FML protocol version 2, 4 byte dimension received 0
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: FMLHandshakeClientState: $ServerHello->FMLHandshakeClientState$2:HELLO
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]:   Next: WAITINGSERVERDATA
+[17:55:38] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: Received override dimension 0
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[17:55:38] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:35 mods->FMLHandshakeServerState$2:HELLO
+[17:55:38] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 35 mods : minecraft@1.12.2,buildcraftlib@7.99.17,portalgun@7.0.0,biomesoplenty@7.0.1.2297,redstoneflux@2.0.1,zawa@1.12.1-1.1.0,buildcraftsilicon@7.99.17,buildcraftenergy@7.99.17,minions@2.0.2,jei@4.9.1.168,buildcrafttransport@7.99.17,chickenchunks@2.4.1.71,cofhcore@4.4.1,mekanism@1.12.2-9.4.10.345,thermalfoundation@2.4.1,buildcraftbuilders@7.99.17,mcp@9.42,moon-core@7.0,buildcraftfactory@7.99.17,journeymap@1.12.2-5.5.2,appliedenergistics2@rv5-stable-11,FML@8.0.99.99,thermalexpansion@5.4.2,inventorytweaks@1.63+release.109.220f184,bigreactors@1.12.2-0.4.5.48,waila@1.8.20,ichunutil@7.1.4,forge@14.23.4.2703,codechickenlib@3.1.8.341,twilightforest@3.7.424,buildcraftcore@7.99.17,buildcraftrobotics@7.99.17,forestry@5.8.0.280,ironchest@1.12-7.0.31.818,zerocore@1.12-0.1.2.1
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: FMLHandshakeClientState: $ModList:35 mods->FMLHandshakeClientState$3:WAITINGSERVERDATA
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]:   Next: PENDINGCOMPLETE
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: FMLHandshakeClientState: $HandshakeAck:{2}->FMLHandshakeClientState$5:PENDINGCOMPLETE
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]:   Next: COMPLETE
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$4:COMPLETE
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]:   Next: DONE
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidsulfurtrioxide has been selected as the default fluid for liquidsulfurtrioxide
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:steam has been selected as the default fluid for steam
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_gaseous has been selected as the default fluid for fuel_gaseous
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:potion has been selected as the default fluid for potion
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_distilled has been selected as the default fluid for oil_distilled
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:milk has been selected as the default fluid for milk
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid bigreactors:yellorium has been selected as the default fluid for yellorium
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidchlorine has been selected as the default fluid for liquidchlorine
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid biomesoplenty:sand has been selected as the default fluid for sand
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:experience has been selected as the default fluid for experience
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:petrotheum has been selected as the default fluid for petrotheum
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_mixed_light_heat_1 has been selected as the default fluid for fuel_mixed_light_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:mana has been selected as the default fluid for mana
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid biomesoplenty:honey has been selected as the default fluid for honey
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid biomesoplenty:hot_spring_water has been selected as the default fluid for hot_spring_water
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_mixed_light_heat_2 has been selected as the default fluid for fuel_mixed_light_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:redstone has been selected as the default fluid for redstone
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:seed.oil has been selected as the default fluid for seed.oil
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid twilightforest:knightmetal has been selected as the default fluid for knightmetal
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid minecraft:water has been selected as the default fluid for water
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:potion_lingering has been selected as the default fluid for potion_lingering
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidethene has been selected as the default fluid for liquidethene
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:ender has been selected as the default fluid for ender
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_heavy has been selected as the default fluid for oil_heavy
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_gaseous_heat_1 has been selected as the default fluid for fuel_gaseous_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid bigreactors:fuelcolumn has been selected as the default fluid for fuelcolumn
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_gaseous_heat_2 has been selected as the default fluid for fuel_gaseous_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_residue_heat_1 has been selected as the default fluid for oil_residue_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_residue_heat_2 has been selected as the default fluid for oil_residue_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:bio.ethanol has been selected as the default fluid for bio.ethanol
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_dense_heat_1 has been selected as the default fluid for oil_dense_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:short.mead has been selected as the default fluid for short.mead
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidlithium has been selected as the default fluid for liquidlithium
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:juice has been selected as the default fluid for juice
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:heavywater has been selected as the default fluid for heavywater
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:sulfuricacid has been selected as the default fluid for sulfuricacid
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:coal has been selected as the default fluid for coal
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid biomesoplenty:blood has been selected as the default fluid for blood
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_mixed_heavy has been selected as the default fluid for fuel_mixed_heavy
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:crude_oil has been selected as the default fluid for crude_oil
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:aerotheum has been selected as the default fluid for aerotheum
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_dense has been selected as the default fluid for oil_dense
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_dense_heat_2 has been selected as the default fluid for oil_dense_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_mixed_light has been selected as the default fluid for fuel_mixed_light
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:sap has been selected as the default fluid for sap
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidoxygen has been selected as the default fluid for liquidoxygen
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_heat_1 has been selected as the default fluid for oil_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:cryotheum has been selected as the default fluid for cryotheum
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_dense_heat_1 has been selected as the default fluid for fuel_dense_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:refined_fuel has been selected as the default fluid for refined_fuel
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_dense_heat_2 has been selected as the default fluid for fuel_dense_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidfusionfuel has been selected as the default fluid for liquidfusionfuel
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_light has been selected as the default fluid for fuel_light
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:glass has been selected as the default fluid for glass
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:glowstone has been selected as the default fluid for glowstone
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_distilled_heat_2 has been selected as the default fluid for oil_distilled_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:resin has been selected as the default fluid for resin
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidtritium has been selected as the default fluid for liquidtritium
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_distilled_heat_1 has been selected as the default fluid for oil_distilled_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:ice has been selected as the default fluid for ice
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquiddeuterium has been selected as the default fluid for liquiddeuterium
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid biomesoplenty:poison has been selected as the default fluid for poison
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_heat_2 has been selected as the default fluid for oil_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:pyrotheum has been selected as the default fluid for pyrotheum
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:mushroom_stew has been selected as the default fluid for mushroom_stew
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid bigreactors:cyanite has been selected as the default fluid for cyanite
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid twilightforest:fiery_essence has been selected as the default fluid for fiery_essence
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidhydrogen has been selected as the default fluid for liquidhydrogen
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_mixed_heavy_heat_1 has been selected as the default fluid for fuel_mixed_heavy_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:tree_oil has been selected as the default fluid for tree_oil
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_light_heat_2 has been selected as the default fluid for fuel_light_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_light_heat_1 has been selected as the default fluid for fuel_light_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil has been selected as the default fluid for oil
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:syrup has been selected as the default fluid for syrup
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_mixed_heavy_heat_2 has been selected as the default fluid for fuel_mixed_heavy_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:creosote has been selected as the default fluid for creosote
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:refined_oil has been selected as the default fluid for refined_oil
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid minecraft:lava has been selected as the default fluid for lava
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:biomass has been selected as the default fluid for biomass
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:brine has been selected as the default fluid for brine
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_heavy_heat_2 has been selected as the default fluid for oil_heavy_heat_2
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidsulfurdioxide has been selected as the default fluid for liquidsulfurdioxide
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidhydrogenchloride has been selected as the default fluid for liquidhydrogenchloride
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid thermalfoundation:potion_splash has been selected as the default fluid for potion_splash
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid mekanism:liquidsodium has been selected as the default fluid for liquidsodium
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_residue has been selected as the default fluid for oil_residue
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:oil_heavy_heat_1 has been selected as the default fluid for oil_heavy_heat_1
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid buildcraftenergy:fuel_dense has been selected as the default fluid for fuel_dense
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid twilightforest:fierymetal has been selected as the default fluid for fierymetal
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: The fluid forestry:for.honey has been selected as the default fluid for for.honey
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]: FMLHandshakeClientState: $HandshakeAck:{3}->FMLHandshakeClientState$6:COMPLETE
+[17:55:38] [Netty Local Client IO #0/DEBUG] [FML]:   Next: DONE
+[17:55:38] [Netty Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[17:55:38] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[17:55:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:55:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TheMFhalls[local:E:09cc65b7] logged in with entity id 628 at (-93.5, 64.0, 195.5)
+[17:55:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheMFhalls joined the game
+[17:55:39] [main/DEBUG] [FML]: Overriding dimension: using 0
+[17:55:39] [main/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[17:55:39] [main/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[17:55:42] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[17:55:42] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:prepareMinionHolder:351]: New Minionlist prepared for user TheMFhalls
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] WARNING: BuildCraft 7.99.17 is in ALPHA!
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]   Report BuildCraft bugs you find here
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]   and include the BuildCraft version 7.99.17 in the description
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT]   If you have performance problems then try disabling
+[17:55:42] [Thread-19/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] everything in the BuildCraft perfomance config section.
+[17:55:42] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §1[Mekanism] §7Using developer build §89.4.10
+[17:55:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['TheMFhalls'/628, l='Teste', x=-93.50, y=64.00, z=195.50] connected. Sending ping
+[17:55:42] [Netty Local Client IO #0/INFO] [Waila]: Received server authentication msg. Remote sync will be activated
+[17:55:42] [Netty Local Client IO #0/INFO] [Mekanism]: Received config from server.
+[17:55:42] [Netty Local Client IO #0/INFO] [Mekanism]: Received Cardboard Box blacklist entries from server (19 total)
+[17:55:42] [Thread-20/INFO] [Mekanism]: VoiceServer: Starting client connection...
+[17:55:42] [Server thread/INFO] [Mekanism]: Sent config to 'TheMFhalls.'
+[17:55:42] [VoiceServer Listen Thread/INFO] [Mekanism]: VoiceServer: Accepted new connection.
+[17:55:42] [Thread-20/INFO] [Mekanism]: VoiceServer: Successfully connected to server.
+[17:55:43] [Thread-23/INFO] [Mekanism]: VoiceServer: Traced IP in 1 attempts.
+[17:55:43] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:55:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:55:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:55:43] [main/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[17:55:43] [main/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[17:55:43] [main/INFO] [journeymap]: Loading journeymap.topo.config
+[17:55:43] [main/INFO] [journeymap]: Loaded 2 waypoints from C:\Users\maico\AppData\Roaming\.minecraft\journeymap\data\sp\Teste\waypoints
+[17:55:43] [main/INFO] [journeymap]: Mapping started in C:\Users\maico\AppData\Roaming\.minecraft\journeymap\data\sp\Teste\DIM0. Memory: 2480MB total, 1264MB free 
+[17:55:43] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[17:55:43] [main/INFO] [journeymap]: JourneyMap: Press [J]
+[17:55:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:55:46] [JM-task-4/INFO] [journeymap]: Custom modded block handling enabled for biomesoplenty
+[17:55:48] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11544ms behind, skipping 230 tick(s)
+[17:56:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:56:37] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:56:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:56:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:56:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:56:42] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:56:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:56:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:56:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:56:47] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 7 advancements
+[17:56:53] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:56:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:56:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:56:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:56:53] [JM-texture-3/WARN] [journeymap]: Couldn't get a skin at all for techbrew
+[17:56:53] [JM-texture-6/WARN] [journeymap]: Couldn't get a skin at all for mysticdrew
+[17:56:54] [JM-texture-2/WARN] [journeymap]: Couldn't get a skin at all for Davkas
+[17:56:54] [JM-texture-5/WARN] [journeymap]: Couldn't get a skin at all for AlexDurrani
+[17:56:54] [JM-texture-3/WARN] [journeymap]: Couldn't get a skin at all for TECH_GEEK10
+[17:56:54] [JM-texture-6/WARN] [journeymap]: Couldn't get a skin at all for _TheEndless_
+[17:56:55] [JM-texture-2/WARN] [journeymap]: Couldn't get a skin at all for eladjenkins
+[17:57:00] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:57:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:57:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:57:01] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:57:08] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:57:08] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:57:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:57:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:57:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:57:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheMFhalls was slain by Gaur
+[17:57:54] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] TheMFhalls was slain by Gaur
+[17:57:54] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 16 advancements
+[17:57:55] [main/INFO] [journeymap]: TheMFhalls died at BlockPos{x=-152, y=64, z=322}. Deathpoints enabled: true. Deathpoint created: true
+[17:57:55] [Server thread/DEBUG] [twilightforest]: Player TheMFhalls respawned and received items held in storage
+[17:58:02] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 45 advancements
+[17:58:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:58:15] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 47 advancements
+[17:58:15] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 66 advancements
+[17:58:27] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 69 advancements
+[17:58:33] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 71 advancements
+[17:58:34] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 74 advancements
+[17:58:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:58:56] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:58:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:58:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:58:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:59:28] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[17:59:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[17:59:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[17:59:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[17:59:36] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Locking difficulty to NORMAL
+[17:59:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[18:00:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TheMFhalls was slain by Gaur
+[18:00:15] [main/INFO] [net.minecraft.client.gui.GuiNewChat]: [CHAT] TheMFhalls was slain by Gaur
+[18:00:16] [main/INFO] [journeymap]: TheMFhalls died at BlockPos{x=-133, y=64, z=154}. Deathpoints enabled: true. Deathpoint created: true
+[18:00:16] [Server thread/DEBUG] [twilightforest]: Player TheMFhalls respawned and received items held in storage
+[18:00:27] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:00:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[18:00:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[18:00:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[18:00:32] [Server thread/INFO] [net.minecraft.server.integrated.IntegratedServer]: Saving and pausing game...
+[18:00:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[18:00:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[18:00:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[18:03:25] [main/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[18:03:25] [main/INFO] [journeymap]: Mapping halted in C:\Users\maico\AppData\Roaming\.minecraft\journeymap\data\sp\Teste\DIM0
+[18:03:25] [main/WARN] [journeymap]: Existing color palette's resource packs no longer match current loadout.
+[18:03:25] [main/INFO] [journeymap]: WAS: Faithful 64x64 1.12-1.9.4.zip:zip
+NOW: Default
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.001s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod appliedenergistics2
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod appliedenergistics2
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Applied Energistics 2 took 0.004s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod biomesoplenty
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod biomesoplenty
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Biomes O' Plenty took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftlib
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftlib
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BuildCraft Lib took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftcore
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftcore
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BuildCraft took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftbuilders
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftbuilders
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BC Builders took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftenergy
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftenergy
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BC Energy took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftfactory
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftfactory
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BC Factory took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftrobotics
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftrobotics
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BC Robotics took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcrafttransport
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcrafttransport
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BC Transport took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod buildcraftsilicon
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod buildcraftsilicon
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - BC Silicon took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod codechickenlib
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod codechickenlib
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CodeChicken Lib took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod chickenchunks
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod chickenchunks
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - ChickenChunks took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod redstoneflux
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod redstoneflux
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Redstone Flux took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod cofhcore
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod cofhcore
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - CoFH Core took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod zerocore
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod zerocore
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Zero CORE took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod bigreactors
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod bigreactors
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Extreme Reactors took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod jei
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod jei
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Just Enough Items took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forestry
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forestry
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forestry took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod waila
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod waila
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Waila took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod ichunutil
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod ichunutil
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - iChunUtil took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod inventorytweaks
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod inventorytweaks
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Inventory Tweaks took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod ironchest
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod ironchest
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Iron Chest took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod journeymap
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod journeymap
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - JourneyMap took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mekanism
+[18:03:25] [Server thread/INFO] [Mekanism]: VoiceServer: Shutting down server...
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mekanism
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Mekanism took 0.010s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minions
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minions
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minions took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod zawa
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod zawa
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod moon-core
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod moon-core
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Moon's Core took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod portalgun
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod portalgun
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - PortalGun took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod thermalfoundation
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod thermalfoundation
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Thermal Foundation took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod thermalexpansion
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod thermalexpansion
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Thermal Expansion took 0.000s
+[18:03:25] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod twilightforest
+[18:03:25] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod twilightforest
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - The Twilight Forest took 0.000s
+[18:03:25] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.018s
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/overworld
+[18:03:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save Teste
+[18:03:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'Teste'/Storage Cell
+[18:03:26] [Server thread/INFO] [STDOUT]: [atomicstryker.minions.common.MinionsCore:getMinionMap:336]: Minions: minionMapLock was hanging
+[18:03:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[18:03:26] [Server thread/INFO] [FML]: Unloading dimension 2
+[18:03:26] [Server thread/DEBUG] [FML]: Reverting to frozen data state.
+[18:03:26] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minecraft
+[18:03:26] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minecraft
+[18:03:26] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft took 0.000s
+[18:03:26] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mcp
+[18:03:26] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mcp
+[18:03:26] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[18:03:26] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod FML
+[18:03:26] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod FML
+[18:03:26] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[18:03:26] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forge
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forge
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Forge took 1.761s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod appliedenergistics2
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod appliedenergistics2
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Applied Energistics 2 took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod biomesoplenty
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod biomesoplenty
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Biomes O' Plenty took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftlib
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftlib
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BuildCraft Lib took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftcore
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftcore
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BuildCraft took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftbuilders
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftbuilders
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BC Builders took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftenergy
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftenergy
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BC Energy took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftfactory
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftfactory
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BC Factory took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftrobotics
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftrobotics
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BC Robotics took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcrafttransport
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcrafttransport
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BC Transport took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod buildcraftsilicon
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod buildcraftsilicon
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - BC Silicon took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod codechickenlib
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod codechickenlib
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - CodeChicken Lib took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod chickenchunks
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod chickenchunks
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - ChickenChunks took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod redstoneflux
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod redstoneflux
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Redstone Flux took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod cofhcore
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod cofhcore
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - CoFH Core took 0.003s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod zerocore
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod zerocore
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Zero CORE took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod bigreactors
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod bigreactors
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Extreme Reactors took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod jei
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod jei
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Just Enough Items took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forestry
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forestry
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forestry took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod waila
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod waila
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Waila took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod ichunutil
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod ichunutil
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - iChunUtil took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod inventorytweaks
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod inventorytweaks
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Inventory Tweaks took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod ironchest
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod ironchest
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Iron Chest took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod journeymap
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod journeymap
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - JourneyMap took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mekanism
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mekanism
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Mekanism took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minions
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minions
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minions took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod zawa
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod zawa
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod moon-core
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod moon-core
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Moon's Core took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod portalgun
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod portalgun
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - PortalGun took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod thermalfoundation
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod thermalfoundation
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Thermal Foundation took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod thermalexpansion
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod thermalexpansion
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - Thermal Expansion took 0.012s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod twilightforest
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod twilightforest
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ModIdMapping - The Twilight Forest took 0.000s
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Finished: ModIdMapping took 1.778s
+[18:03:27] [Server thread/INFO] [FML]: Applying holder lookups
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup buildcraftfactory:plastic_sheet for public static net.minecraft.item.Item buildcraft.api.BCItems$Factory.PLASTIC_SHEET. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup buildcraftfactory:water_gel for public static net.minecraft.item.Item buildcraft.api.BCItems$Factory.WATER_GEL. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup buildcraftfactory:gelled_water for public static net.minecraft.item.Item buildcraft.api.BCItems$Factory.GELLED_WATER. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup buildcraftsilicon:charging_table for public static net.minecraft.block.Block buildcraft.api.BCBlocks$Silicon.CHARGING_TABLE. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup buildcraftsilicon:programming_table for public static net.minecraft.block.Block buildcraft.api.BCBlocks$Silicon.PROGRAMMING_TABLE. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup buildcraftcore:goggles for public static net.minecraft.item.Item buildcraft.api.BCItems$Core.GOGGLES. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup natura:nether_purple_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.purpleLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup natura:nether_blue_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.blueLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/DEBUG] [FML]: Unable to lookup natura:nether_green_large_glowshroom for private static net.minecraft.block.Block forestry.plugins.PluginNatura.greenLargeGlowshroomBlock. This means the object wasn't registered. It's likely just mod options.
+[18:03:27] [Server thread/INFO] [FML]: Holder lookups applied
+[18:03:27] [Server thread/DEBUG] [FML]: Frozen state restored.
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod appliedenergistics2
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod appliedenergistics2
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Applied Energistics 2 took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod biomesoplenty
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod biomesoplenty
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Biomes O' Plenty took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftlib
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftlib
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft Lib took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftcore
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftcore
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BuildCraft took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftbuilders
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftbuilders
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BC Builders took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftenergy
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftenergy
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BC Energy took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftfactory
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftfactory
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BC Factory took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftrobotics
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftrobotics
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BC Robotics took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcrafttransport
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcrafttransport
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BC Transport took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod buildcraftsilicon
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod buildcraftsilicon
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - BC Silicon took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod codechickenlib
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod codechickenlib
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CodeChicken Lib took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod chickenchunks
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod chickenchunks
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - ChickenChunks took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod redstoneflux
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod redstoneflux
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Redstone Flux took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod cofhcore
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod cofhcore
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - CoFH Core took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod zerocore
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod zerocore
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Zero CORE took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod bigreactors
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod bigreactors
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Extreme Reactors took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod jei
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod jei
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Just Enough Items took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forestry
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forestry
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forestry took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod waila
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod waila
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Waila took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod ichunutil
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod ichunutil
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - iChunUtil took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod inventorytweaks
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod inventorytweaks
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Inventory Tweaks took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod ironchest
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod ironchest
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Iron Chest took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod journeymap
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod journeymap
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - JourneyMap took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mekanism
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mekanism
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Mekanism took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minions
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minions
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minions took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod zawa
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod zawa
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Zoo and Wild Animals Mod: Rebuilt took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod moon-core
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod moon-core
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Moon's Core took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod portalgun
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod portalgun
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - PortalGun took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod thermalfoundation
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod thermalfoundation
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Thermal Foundation took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod thermalexpansion
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod thermalexpansion
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Thermal Expansion took 0.000s
+[18:03:27] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod twilightforest
+[18:03:27] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod twilightforest
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - The Twilight Forest took 0.000s
+[18:03:27] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.003s
+[18:03:27] [main/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[18:03:28] [main/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
