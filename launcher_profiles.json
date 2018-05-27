@@ -28,7 +28,7 @@
       "name": "forge",
       "type": "custom",
       "created": "2018-05-26T16:14:25.545Z",
-      "lastUsed": "2018-05-26T20:51:19.649Z",
+      "lastUsed": "2018-05-26T23:34:42.557Z",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2703",
       "javaArgs": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M"
     }
