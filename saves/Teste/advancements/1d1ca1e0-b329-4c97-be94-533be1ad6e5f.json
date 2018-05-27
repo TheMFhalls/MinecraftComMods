@@ -29,6 +29,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-05-27 12:01:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-05-27 12:01:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-05-26 20:52:36 -0300"
@@ -37,8 +49,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "alps_foothills": "2018-05-27 12:28:41 -0300",
       "coniferous_forest": "2018-05-26 20:40:50 -0300",
-      "shield": "2018-05-26 20:38:22 -0300"
+      "shield": "2018-05-26 20:38:22 -0300",
+      "alps": "2018-05-27 12:28:47 -0300"
     },
     "done": false
   },
@@ -72,6 +86,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/brown_dye_from_cattail": {
+    "criteria": {
+      "has_flower": "2018-05-27 12:01:40 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2018-05-27 12:26:19 -0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "swampland": "2018-05-26 21:04:44 -0300",
@@ -96,6 +122,18 @@
   "buildcraftenergy:sticky_dipping": {
     "criteria": {
       "oil": "2018-05-26 21:06:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-05-27 12:27:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-05-27 12:33:45 -0300"
     },
     "done": true
   },
@@ -177,9 +215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2018-05-27 12:01:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-05-26 20:48:29 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
+    "criteria": {
+      "has_log": "2018-05-27 12:01:40 -0300"
     },
     "done": true
   },
@@ -245,6 +295,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2018-05-27 12:05:12 -0300",
+      "zombie": "2018-05-27 12:16:23 -0300",
       "creeper": "2018-05-26 20:57:20 -0300"
     },
     "done": false
@@ -258,6 +310,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2018-05-26 20:52:43 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2018-05-27 12:26:19 -0300"
     },
     "done": true
   },
@@ -288,6 +346,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-05-26 20:52:35 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/mud_from_dirt": {
+    "criteria": {
+      "has_gem_block": "2018-05-27 12:26:19 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/mud": {
+    "criteria": {
+      "has_item": "2018-05-27 12:01:40 -0300"
     },
     "done": true
   },
@@ -330,6 +400,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-05-26 20:52:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2018-05-27 12:01:40 -0300"
     },
     "done": true
   },

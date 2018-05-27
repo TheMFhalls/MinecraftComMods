@@ -28,7 +28,7 @@
       "name": "forge",
       "type": "custom",
       "created": "2018-05-26T16:14:25.545Z",
-      "lastUsed": "2018-05-26T23:34:42.557Z",
+      "lastUsed": "2018-05-27T14:59:06.514Z",
       "lastVersionId": "1.12.2-forge1.12.2-14.23.4.2703",
       "javaArgs": "-Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M"
     }
@@ -38,7 +38,7 @@
     "account": "dd1a42301ffd4e93889b3528aee21bd8",
     "profile": "1d1ca1e0b3294c97be94533be1ad6e5f"
   },
-  "analyticsToken": "3a29f0b967ec3065bc13841dbb26b9f7",
+  "analyticsToken": "39e203c224f400de5755eb1573da86ee",
   "authenticationDatabase": {
     "dd1a42301ffd4e93889b3528aee21bd8": {
       "accessToken": "e15528d05b6b4cab9bc3a5ddb3c02015",
