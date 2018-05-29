@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-05-28 21:44:27 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2018-05-26 16:45:49 -0300"
@@ -327,6 +333,7 @@
     "criteria": {
       "cooked_mutton": "2018-05-27 15:53:43 -0300",
       "apple": "2018-05-27 11:17:59 -0300",
+      "cooked_cod": "2018-05-28 21:46:48 -0300",
       "bread": "2018-05-27 11:10:53 -0300",
       "rotten_flesh": "2018-05-27 11:17:56 -0300",
       "raw_cod": "2018-05-27 16:08:02 -0300"
@@ -621,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2018-05-28 21:51:29 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2018-05-27 11:40:00 -0300"
@@ -738,6 +751,18 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2018-05-27 11:43:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2018-05-28 21:56:03 -0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2018-05-28 21:39:05 -0300"
     },
     "done": true
   },
